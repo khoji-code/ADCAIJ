@@ -1,0 +1,5 @@
+Metric,Value
+Total Transactions,284807.0
+Legitimate,284315.0
+Fraud,492.0
+Fraud Ratio (%),0.173
